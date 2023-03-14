@@ -1,4 +1,4 @@
-package Main;
+package View;
 
 public class Exemplo_video {
 
